@@ -1,0 +1,2 @@
+# ototally-site
+OtoTallyのサイト
