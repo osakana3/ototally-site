@@ -1,0 +1,21 @@
+Vosk Japanese Small Model (vosk-model-small-ja)
+================================================
+
+This directory contains the Vosk Japanese small speech recognition model,
+redistributed in accordance with the Apache License, Version 2.0.
+
+Source: https://alphacephei.com/vosk/models
+Model: vosk-model-small-ja-0.22
+Copyright: Alphacephei Inc. and contributors
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use these files except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+The model is based on Kaldi (https://kaldi-asr.org/), also Apache-2.0.
+
+This model is used by the OtoTally app (https://github.com/osakana3/ototally-site)
+to perform on-device speech recognition for the Times Tables voice answer feature.
+No audio data is sent to any server; all recognition runs entirely on-device.
